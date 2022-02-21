@@ -1,0 +1,91 @@
+// Installed Packages
+{
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "Anaconda",
+        "AutoFileName",
+        "Babel",
+        "BracketHighlighter",
+        "Emmet",
+        "JavaScript Completions",
+        "Oceanic Next Color Scheme",
+        "Package Control",
+        "SideBarEnhancements",
+        "SublimeGit",
+        "SublimeREPL",
+        "tern_for_sublime",
+        "Theme - Afterglow",
+        "View In Browser",
+    ],
+}
+
+// SublimeText Preferences
+{
+    // AfterGlow theme preferences
+    "theme": "Afterglow.sublime-theme",
+    "color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+    "tabs_small": true,
+    "status_bar_brighter": true,
+    "color_inactive_tabs": true,
+    "tabs_padding_small": true,
+
+
+    // Sublime preferences
+    "draw_minimap_border": true,
+    "ignored_packages":
+    [
+        "Vintage",
+    ],
+    "match_brackets": false,
+    "match_brackets_angle": false,
+    "match_brackets_braces": false,
+    "match_brackets_content": false,
+    "match_brackets_square": false,
+    "match_tags": false,
+    
+    "translate_tabs_to_spaces": true,
+
+    "word_wrap": "true",
+}
+
+// Emmet settings
+{
+    "telemetry": false,
+    "uid": "84943332-f0cb-4102-80aa-e98af2bde2b1"
+}
+// Key Bindings
+[
+    { 
+        "keys": ["super+shift+b"], "command": "run_existing_window_command", "args":
+            {
+                "id": "repl_python_run",
+                "file": "config/Python/Main.sublime-menu"
+            }
+    }
+]
+
+// View In Browser
+{
+"browser": "chrome",
+}
+
+// Anaconda settings
+{
+    "autoformat_ignore":
+    [
+        "E501",
+        "E722"
+    ],
+    "pep8_ignore":
+    [
+        "E501",
+        "E722",
+        "W605"
+    ]
+}
+
+
