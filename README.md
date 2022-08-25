@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RamReb
-- 👀 I’m interested in Aeronautics
+- 👀 I’m interested in bike mechanics
 - 🌱 I’m currently learning Web developping
 
 <!---
